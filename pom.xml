@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>framework-ext-vertx</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
 
     <name>MetaRing Vert.x Extension</name>
     <description>The Vert.x root extension for the MetaRing Framework</description>
@@ -42,7 +42,7 @@
     <scm>
         <url>https://github.com/metaring/framework-ext-j2ee-rpc.git</url>
         <developerConnection>scm:git:git@github.com:metaring/framework-ext-j2ee-rpc.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0.3</tag>
     </scm>
 
     <dependencies>
