@@ -40,8 +40,8 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/metaring/framework-ext-j2ee-rpc.git</url>
-        <developerConnection>scm:git:git@github.com:metaring/framework-ext-j2ee-rpc.git</developerConnection>
+        <url>https://github.com/metaring/framework-ext-vertx.git</url>
+        <developerConnection>scm:git:git@github.com:metaring/framework-ext-vertx.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
