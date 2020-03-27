@@ -4,7 +4,7 @@ import java.util.concurrent.Executor;
 
 import io.vertx.core.Vertx;
 
-public class VertxUtilties {
+public class VertxUtilities {
 
     public static final String CFG_VERTX = "vertx";
     public static final String CFG_INSTANCES = "instances";
